@@ -1,0 +1,43 @@
+
+var ftGUID_7982371="65094DD57181FB";
+var ftConfID_7982371="0";
+var ftParams_7982371="ftOBA=1&ft_agentEnv=0&ft_referrer=https://irbank.net/9984/ir;https%3A%2F%2Firbank.net%2F9984%2Fir&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0igrs3Zh4x31YEHZ6lEjrzh;ABAjH0igrs3Zh4x31YEHZ6lEjrzh&site_url=https://irbank.net/9984/ir&pub_id=1&sup_platform=1&cachebuster=795091.08425956&ft_keyword=DV360CampID:__20708433089__&ft_section=DV360CampID:20708433089";
+var ftKeyword_7982371="";
+var ftCustom_7982371="";
+var ftSection_7982371="DV360CampID:20708433089";
+var ftSegment_7982371="";
+var ftSegmentList_7982371=[];
+var ftRuleMatch_7982371="0";
+var ftTimestamp_7982371="1774614576";
+var ftGeoC2_7982371="jp";
+var ftGeoState_7982371="01";
+var ftGeoCity_7982371="sapporo";
+var ftISP_7982371="softbank mobile corp.";
+var ftSpeed_7982371="broadband";
+var ftConnType_7982371="wifi";
+var ftDMA_7982371="392006";
+var ftLong_7982371="141.29";
+var ftLat_7982371="43.09";
+var ftPostal_7982371="063-0828";
+var ftTimeZone_7982371="+900";
+var ftMobileCarrier_7982371="";
+var ftImp7982371 = {};
+ftImp7982371.privacy = "x";
+ftImp7982371.guidAge = "151";
+ftImp7982371.impID = "B9826A0C-FBFE-C5EA-18B6-833E873EA52F";
+ftImp7982371.duid = "FT:65094DD57181FB";
+
+ftImp7982371.ft_tpplid = "";
+ftImp7982371.ft_c = {};
+ftImp7982371.gdpr = "";
+ftImp7982371.gdpr_consent = "";
+ftImp7982371.gdpr_pd = "";
+ftImp7982371.oob_consent = "";
+ftImp7982371.gdprStoredConsent = "";
+ftImp7982371.us_privacy = "!!US_PRIVACY!";
+ftImp7982371.gpc = "";
+
+ftImp7982371.jsAppend = "1";
+var ftCreativeId_7982371 = "4951975";
+(function(){var tag=document.getElementById("ft_servedby_7982371")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7982371";js.setAttribute("name","ftscript_m7982371");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7982371");
+
